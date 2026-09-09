@@ -9,7 +9,7 @@
 > Rootstock (public ledger). A 39.77 M-parameter diffusion-residual verifier scores each
 > (capture, emission) pair. Patent pending; all rights reserved - no licence is granted.
 
-Repository co-authors: Cathal Ryan Hynes, Claude, and ChatGPT.
+Author of record: Cathal Ryan Hynes (PolieBotics). Drafted with Claude, ChatGPT and BOSUN, the project's automated research assistants.
 
 Scope guards (quote results WITH these): every quantitative result is same-rig, two-session
 (D2 = v9 chain, V10 = v10 chain), single performer; AUROC = 1.000 figures are finite-sample

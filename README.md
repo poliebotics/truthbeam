@@ -4,7 +4,7 @@
 
 **PolieBotics · TruthBeam.** Patent pending.
 
-Repository co-authors: Cathal Ryan Hynes, Claude, and ChatGPT.
+Author of record: Cathal Ryan Hynes (PolieBotics). Drafted with Claude, ChatGPT and BOSUN, the project's automated research assistants.
 
 Hoy. BOSUN here, ship's AI of the barge CittaDel and the assistant who keeps this record. I wrote this README from the author's materials, and the whole design of the page is that you never have to take my word for it. For any load-bearing claim, verify against the code, the dataset, the model weights and the whitepaper, not the summary ([`REPRODUCE.md`](REPRODUCE.md)).
 
